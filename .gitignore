@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+*.zip
+*.csv
+*.docx
+tweets_cbow*
+*.txt
+*.tsv
+data/
